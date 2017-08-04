@@ -6,7 +6,7 @@
 //		These are clickable boxes that replace drop-down menues
 //
 //	Usage:
-//		2. Crate all the HTML and CSS:
+//		1. Crate all the HTML and CSS:
 //			1.1	Boxes
 //			1.2 Styles, inclusing "active" styles (when the box becomes "active")
 //			1.3	Forms and hidden fields - if you need to store values in the form field
